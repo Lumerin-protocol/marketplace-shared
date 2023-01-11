@@ -1,5 +1,5 @@
 {
-  "name": "@bohdan-titan/marketplace-shared",
+  "name": "@lumerin-protocol/marketplace-shared",
   "version": "1.0.0",
   "description": "Marketplace business components library",
   "main": "dist/cjs/index.js",
